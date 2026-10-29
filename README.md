@@ -32,3 +32,9 @@ x| 1 2 3 4 5
 (d*e + Ф * N) mod Ф = 1 mod Ф = 1
 (Ф * N) mod Ф = 0 
 d * e mod Ф = 1
+пользователь е               series 
+random e mod N               random число 
+cipher = number              cipher(random число)
+                             дешифрование со своим d 
+
+            
